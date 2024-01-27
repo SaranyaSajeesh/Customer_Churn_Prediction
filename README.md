@@ -4,7 +4,7 @@ Step 1: Project Overview
 
 This project's primary goal is to predict customer churn, which refers to the loss of customers in a telecom company. Customer churn can have a significant impact on a company's revenue and profitability. In this project, we aim to proactively identify customers at risk of leaving the service using machine learning techniques. The ultimate objective is to develop a model that assists in retaining high-risk customers and reducing churn rates.
 
-Streamlit App Link:- https://curvy-donuts-help.loca.lt
+
 
 Step 2: Data Collection
 
